@@ -8,10 +8,10 @@ export const portfolioData = {
     university: "REVA University, Bangalore",
     tagline: "B.Tech CSE (AI & Data Science) Student @ REVA University",
     intro: "Passionate about technology, programming, and building real-world solutions.",
-    email: "soumya.student@example.com", // Placeholder Email
-    phone: "+91 98765 43210", // Placeholder Phone
-    github: "https://github.com", // Placeholder Github Link
-    linkedin: "https://linkedin.com", // Placeholder LinkedIn Link
+    email: "soumyapriya478@gmail.com", // Placeholder Email
+  
+    github: "https://github.com/soumya-cm", // Placeholder Github Link
+    linkedin: "https://www.linkedin.com/in/soumya-0611803b9/", // Placeholder LinkedIn Link
   },
   aboutMe: {
     paragraphs: [
